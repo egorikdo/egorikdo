@@ -44,7 +44,7 @@
 
 Открыт к удалённым проектам и фриланс-заказам: ML/NLP, интеграция LLM, Python/Java backend, Telegram-боты, автоматизация.
 
-**Контакт:** Telegram — t.me/wargodder
+**Контакт:** 📩 [Написать мне в Telegram](https://t.me/Wargodder)
 
 <!--
 **egorikdo/egorikdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
